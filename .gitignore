@@ -1,0 +1,8 @@
+# main .gitignore file
+node_modules
+non-expo
+
+*.log
+**/*.log
+
+dist
