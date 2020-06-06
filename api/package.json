@@ -9,7 +9,7 @@
     "start:dev": "tsc && nodemon dist/src/index.js --watch"
   },
   "dependencies": {
-    "apollo-server-koa": "^2.6.1",
+    "apollo-server-koa": "^2.14.2",
     "graphql": "^14.3.1",
     "koa": "^2.7.0"
   },
